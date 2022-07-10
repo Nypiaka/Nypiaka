@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Nypiaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khairullin-Alexandr)](https://github.com/Khairullin-Alexandr/github-readme-stats)
+[![Nypiaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nypiaka)](https://github.com/Nypiaka/github-readme-stats)
+
+
+💻 Hi, I am a 2nd year 🎓 [ITMO Computer Science] 🎓 student.
