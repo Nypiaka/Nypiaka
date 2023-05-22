@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Nypiaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nypiaka)](https://github.com/Nypiaka/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nypiaka)](https://github.com/Nypiaka/ithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nypiaka)](https://github.com/Nypiaka/github-readme-stats)
 
 💻 Hi, I am a 2nd year 🎓 [ITMO AMI] 🎓 student.
