@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nypiaka)](https://github.com/Nypiaka/github-readme-stats)
 
-💻 Hi, I am a 2nd year 🎓 [ITMO AMI] 🎓 student.
+💻 Hi, I am a 3rd year 🎓 [ITMO AMI] 🎓 student.
